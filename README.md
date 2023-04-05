@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Reehan09Sarmah
 - 👀 I’m interested in Web Development, Photo Editing, Management
 - 🌱 I’m currently learning Backend Web Development
-- 💞️ I’m looking to collaborate on Front-end projects
+- 💞️ I’m looking to collaborate on Back-end projects
 - 📫 How to reach me -> Mail: reehansarmah8473@gmail.com
 
 <!---
